@@ -1,0 +1,10 @@
+{
+  "name": "Automotive: From Detroit to Electric Hub",
+  "short_name": "AutoRevolution",
+  "description": "Nghiên cứu khoa học về sự chuyển mình của ngành công nghiệp ô tô Hoa Kỳ: Từ dây chuyền Ford đến kỷ nguyên Gigafactory của Tesla.",
+  "version": "1.0.0",
+  "author": "Thanh Hòa, Duy Mạnh, Song An",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
